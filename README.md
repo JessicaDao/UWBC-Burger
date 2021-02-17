@@ -3,8 +3,8 @@
 ## Description:
 Create, view, and update burgers you have or have not tried!
 
-## Images:
-![Demo](https://giphy.com/gifs/YpvcNmDGPghHRftbTN/html5)
+## Demo:
+![Demo](https://media.giphy.com/media/YpvcNmDGPghHRftbTN/giphy.gif)
 
 ## Packages:
 NPM init express express-handlebars install mysql 
