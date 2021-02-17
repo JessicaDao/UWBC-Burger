@@ -1,0 +1,9 @@
+body {
+  background-color: pink;
+  display: block;
+  justify-content: center;
+}
+
+.create-form {
+  justify-content: center;
+}
